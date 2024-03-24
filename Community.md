@@ -19,6 +19,24 @@
   </tr>
 </table>
 <table>
+  <tr>
+    <td>Name</td>
+    <td>Lahu Andhale</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Lahu19</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/lahu-andhale-677509240/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>DYPCET Kolhapur</td>
+  </tr>
+</table>
+<table>
       <tr>
         <td>Name</td>
         <td>Arnav Goel</td>
